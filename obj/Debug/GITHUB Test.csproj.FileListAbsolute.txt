@@ -1,0 +1,10 @@
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\bin\Debug\GITHUB Test.exe.config
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\bin\Debug\GITHUB Test.exe
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\bin\Debug\GITHUB Test.pdb
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB Test.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB_Test.Form1.resources
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB_Test.Properties.Resources.resources
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB Test.csproj.GenerateResource.cache
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB Test.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB Test.exe
+C:\Users\Utilizador\source\Biblioteca\GITHUB Test\obj\Debug\GITHUB Test.pdb
